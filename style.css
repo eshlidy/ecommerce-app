@@ -1,0 +1,101 @@
+.img > .bg {
+    background-color: black;
+    display: flex;
+    position: fixed;
+    left: -1%;
+    top: -1%;
+}
+
+.img > .phones {
+    display: flex;
+    position: fixed;
+}
+
+.ph1 {
+    display: flex;
+    position: fixed;
+    right: 35%;
+    bottom: 15%;
+}
+
+.ph2 {
+    display: flex;
+    position: fixed;
+    right: 22%;
+    bottom: 2%;
+}
+
+.ph3 {
+    display: flex;
+    position: fixed;
+    right: 8%;
+    bottom: 15%;
+}
+
+.vector {
+    display: flex;
+    position: fixed;
+}
+
+.base1 {
+    display: flex;
+    position: fixed;
+    rotate: 20deg;
+    right: 47%;
+    top: 20%;
+}
+
+.base2 {
+    display: flex;
+    position: fixed;
+    rotate: 20deg;
+    right: 3%;
+    bottom: 5%;
+}
+
+.text {
+    display: flex;
+    position: fixed;
+    color: #fff; 
+    font-family: 'Archivo', sans-serif;
+}
+
+.ecommerce {
+    display: flex;
+    position: fixed;
+    color: #fff; 
+    font-family: 'Archivo', sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    left: 8%;
+    top: 40%;
+}
+
+.app {
+    display: flex;
+    position: fixed;
+    color: #fff; 
+    font-family: 'Archivo', sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    left: 8%;
+    top: 50%;
+}
+
+.logo-txt {
+    display: flex;
+    position: fixed;
+    color: #fff; 
+    font-family: 'Archivo', sans-serif;
+    font-weight: 200;
+    font-size: 24px;
+    left: 12%;
+    top: 74%;
+}
+
+.logo {
+    display: flex;
+    position: fixed;
+    left: 8%;
+    top: 76%;
+}
